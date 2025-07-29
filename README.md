@@ -45,6 +45,13 @@ Open your browser and visit:
 
 http://127.0.0.1:8000/analyze/pharmaceuticals
 
+🌐 Try It Out
+➤ Analyze Sector
+Open your browser and visit:
+
+http://127.0.0.1:8000/analyze/pharmaceuticals
+Change pharmaceuticals to any sector (e.g. technology, agriculture, etc.)
+
 💡 Example Output
 # Market Analysis Report: Pharmaceuticals
 
