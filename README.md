@@ -35,12 +35,12 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-How to Run
+▶️ How to Run
 Start the FastAPI app locally:
 
 uvicorn trade_opportunities_api:app --reload
 
-Analyze Sector
+➤ Analyze Sector
 Open your browser and visit:
 
 http://127.0.0.1:8000/analyze/pharmaceuticals
